@@ -98,6 +98,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [LingoHub](https://lingohub.com/) `requires-approval` - Translation management.
 - [POEditor](https://poeditor.com/) `requires-approval` - Localization management platform.
 - [Transifex](https://www.transifex.com/) `requires-approval` - Localization platform for translating digital content.
+- [translatewiki.net](https://translatewiki.net/) `requires-approval` - Localization community for open source software.
 
 ## Version Control
 
